@@ -31,9 +31,7 @@ O projeto tem como objetivo tentar responder algumas perguntas e hipóteses como
 - Processamento dos dados
 - Modelagem estatística
 
-## Getting Started
 
-- Clone o repositório (para ajuda olhe o [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
 
 
